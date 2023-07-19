@@ -1,5 +1,6 @@
 # laravel_project_ecommerce
 
-Full website is yet to update still here are the basic function of Website.
+The full website is yet to update still here are the basic function of the Website.
 
-Here, Database is names as laraecommerce and ate atributes are been given in file you guys can check out.
+Here, the Database is named as laraecommerce, and ate attributes are been given in a file you guys can check out.
+upcoming updates:- curd operations, Dynamic Slide bar, filter in products and brands, and many more......
